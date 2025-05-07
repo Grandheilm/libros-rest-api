@@ -61,4 +61,4 @@ jobs:
           app-name: 'EugenioMacPin'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C50E66C0A7040A3BA6BE974D36FB859 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2C829A3E43F4D65941667002EADCC8D }}
